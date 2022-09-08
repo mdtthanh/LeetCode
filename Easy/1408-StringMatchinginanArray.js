@@ -12,5 +12,6 @@ var stringMatching = function(words) {
             }
         }
     }
+
     return result
-};
+}
